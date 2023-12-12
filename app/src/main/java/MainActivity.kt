@@ -1,8 +1,8 @@
-package __PACKAGE_NAME__
+package com.ted.mynotifier
 
 import android.os.Bundle
 import com.highcapable.betterandroid.ui.component.activity.AppBindingActivity
-import __PACKAGE_NAME__.databinding.ActivityMainBinding
+import com.ted.mynotifier.databinding.ActivityMainBinding
 
 class MainActivity : AppBindingActivity<ActivityMainBinding>() {
 

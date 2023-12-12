@@ -1,4 +1,4 @@
-package __PACKAGE_NAME__
+package com.ted.mynotifier
 
 import org.junit.Test
 
